@@ -9,9 +9,9 @@ Readme :
 - PIL
 
 --------How to run --------
-1) Run " $ python edgeDetection.py "  to generate the Input folder
+1) Run " $ python HW1.py "  to generate the Input folder
 1) Insert the input images into the Input Folder
-2) run " $ python edgeDetection.py "
+2) run " $ python HW1.py "
 3) the intermediate images are in the intermediate directory
 4) the output file will be in the output directory
 
